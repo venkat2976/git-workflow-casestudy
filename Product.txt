@@ -27,6 +27,14 @@ print numbers on a separate line each time
 
 F3 - Wordcount (for rel v.1.0)
 
+Pseudocode:
+while true
+ask user to enter a word
+print word
+if word = x
+print number of words entered
+break
+
 F4 - Temp Conversion (for rel v.1.0)
 -- F to C
 -- Give choice F to C or C to F

@@ -37,5 +37,27 @@ break
 
 F4 - Temp Conversion (for rel v.1.0)
 -- F to C
+
+Pseudocode:
+x = Get user input
+x = Convert X to Celsius
+Output message displaying Celsius temperature
+
 -- Give choice F to C or C to F
+
+Pseudocode:
+x = input "Press 1 to convert from Fahrenheit to Celsius or Press 2 to convert from Celsius to Fahrenheit. "
+y = input ask what number?
+
+if 1 is pressed
+do f to c conversion
+print output
+
+elif 2 is pressed
+do c to f conversion
+print output
+
+else
+print "Please enter either 1 or 2"
+
 -- Char input (error hotfix)

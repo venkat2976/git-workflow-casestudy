@@ -10,6 +10,15 @@ if the password is right, grant access
 
 F2 - Numberlist (for rel v.0.2)
 
+Pseudocode:
+numbercount is 0
+list
+while the number count <= 9
+ask for input
+add one to number count
+add number to list
+print numbers on a separate line each time
+
 F3 - Wordcount (for rel v.1.0)
 
 F4 - Temp Conversion (for rel v.1.0)

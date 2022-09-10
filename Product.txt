@@ -1,0 +1,12 @@
+Features List (for v.1.0)
+
+F1 - Password Access (for rel v.0.2)
+
+F2 - Numberlist (for rel v.0.2)
+
+F3 - Wordcount (for rel v.1.0)
+
+F4 - Temp Conversion (for rel v.1.0)
+-- F to C
+-- Give choice F to C or C to F
+-- Char input (error hotfix)

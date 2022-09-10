@@ -29,5 +29,11 @@ F3 - Wordcount (for rel v.1.0)
 
 F4 - Temp Conversion (for rel v.1.0)
 -- F to C
+
+Pseudocode:
+x = Get user input
+x = Convert X to Celsius
+Output message displaying Celsius temperature
+
 -- Give choice F to C or C to F
 -- Char input (error hotfix)

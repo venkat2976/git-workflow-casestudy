@@ -8,6 +8,12 @@ ask user to try to guess password
 if the password is wrong, say access denied
 if the password is right, grant access
 
+Pseudocode:
+Including condition while setting password - alphanumeric
+- min 8 characters
+- atleast one letter
+- atleast one caps
+
 F2 - Numberlist (for rel v.0.2)
 
 F3 - Wordcount (for rel v.1.0)

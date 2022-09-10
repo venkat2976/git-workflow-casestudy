@@ -19,7 +19,7 @@ F2 - Numberlist (for rel v.0.2)
 Pseudocode:
 numbercount is 0
 list
-while the number count <= 9
+while the number count <= 99
 ask for input
 add one to number count
 add number to list

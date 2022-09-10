@@ -2,6 +2,12 @@ Features List (for v.1.0)
 
 F1 - Password Access (for rel v.0.2)
 
+Pseudocode:
+set password
+ask user to try to guess password
+if the password is wrong, say access denied
+if the password is right, grant access
+
 F2 - Numberlist (for rel v.0.2)
 
 F3 - Wordcount (for rel v.1.0)
